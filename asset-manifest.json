@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/CyberBattle2021/static/js/main.22d689c6.chunk.js",
+    "main.js.map": "/CyberBattle2021/static/js/main.22d689c6.chunk.js.map",
+    "runtime-main.js": "/CyberBattle2021/static/js/runtime-main.e1e1aaf2.js",
+    "runtime-main.js.map": "/CyberBattle2021/static/js/runtime-main.e1e1aaf2.js.map",
+    "static/css/2.94e98eb9.chunk.css": "/CyberBattle2021/static/css/2.94e98eb9.chunk.css",
+    "static/js/2.dc37f600.chunk.js": "/CyberBattle2021/static/js/2.dc37f600.chunk.js",
+    "static/js/2.dc37f600.chunk.js.map": "/CyberBattle2021/static/js/2.dc37f600.chunk.js.map",
+    "index.html": "/CyberBattle2021/index.html",
+    "precache-manifest.5673d134cd95ebd1ccb6ccd97e732e6c.js": "/CyberBattle2021/precache-manifest.5673d134cd95ebd1ccb6ccd97e732e6c.js",
+    "service-worker.js": "/CyberBattle2021/service-worker.js",
+    "static/css/2.94e98eb9.chunk.css.map": "/CyberBattle2021/static/css/2.94e98eb9.chunk.css.map",
+    "static/js/2.dc37f600.chunk.js.LICENSE.txt": "/CyberBattle2021/static/js/2.dc37f600.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/CyberBattle2021/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1e1aaf2.js",
+    "static/css/2.94e98eb9.chunk.css",
+    "static/js/2.dc37f600.chunk.js",
+    "static/js/main.22d689c6.chunk.js"
+  ]
+}
